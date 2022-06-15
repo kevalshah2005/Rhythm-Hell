@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.3" xml:lang="en-US">
+  <compounddef id="classio_1_1github_1_1kevalshah2005_1_1_rhythm_hell" kind="class" language="Java" prot="public">
+    <compoundname>io::github::kevalshah2005::RhythmHell</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Game</basecompoundref>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="classio_1_1github_1_1kevalshah2005_1_1_rhythm_hell_1a4501d877d80f61b4f86c341b923ee2ff" prot="public" static="no" mutable="no">
+        <type>SpriteBatch</type>
+        <definition>SpriteBatch io.github.kevalshah2005.RhythmHell.batch</definition>
+        <argsstring></argsstring>
+        <name>batch</name>
+        <qualifiedname>io.github.kevalshah2005.RhythmHell.batch</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RhythmHell.java" line="17" column="20" bodyfile="RhythmHell.java" bodystart="17" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classio_1_1github_1_1kevalshah2005_1_1_rhythm_hell_1a999b97cb5f4f468dc347ad022b56ba34" prot="private" static="no" mutable="no">
+        <type>BitmapFont</type>
+        <definition>BitmapFont io.github.kevalshah2005.RhythmHell.font</definition>
+        <argsstring></argsstring>
+        <name>font</name>
+        <qualifiedname>io.github.kevalshah2005.RhythmHell.font</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RhythmHell.java" line="18" column="20" bodyfile="RhythmHell.java" bodystart="18" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classio_1_1github_1_1kevalshah2005_1_1_rhythm_hell_1a7af9e26f0927db8dc12f5a0b0299c152" prot="public" static="yes" mutable="no">
+        <type>Skin</type>
+        <definition>Skin io.github.kevalshah2005.RhythmHell.skin</definition>
+        <argsstring></argsstring>
+        <name>skin</name>
+        <qualifiedname>io.github.kevalshah2005.RhythmHell.skin</qualifiedname>
+        <initializer>= new Skin()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RhythmHell.java" line="19" column="20" bodyfile="RhythmHell.java" bodystart="19" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classio_1_1github_1_1kevalshah2005_1_1_rhythm_hell_1a88b1aa19549a0cd12fc3ed1f5895e13b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void io.github.kevalshah2005.RhythmHell.create</definition>
+        <argsstring>()</argsstring>
+        <name>create</name>
+        <qualifiedname>io.github.kevalshah2005.RhythmHell.create</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Initializes assets and adds them to skin for easy access </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RhythmHell.java" line="25" column="13" bodyfile="RhythmHell.java" bodystart="25" bodyend="58"/>
+      </memberdef>
+      <memberdef kind="function" id="classio_1_1github_1_1kevalshah2005_1_1_rhythm_hell_1a84f55a854dc52d491aa77832957f19d6" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void io.github.kevalshah2005.RhythmHell.render</definition>
+        <argsstring>()</argsstring>
+        <name>render</name>
+        <qualifiedname>io.github.kevalshah2005.RhythmHell.render</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Renders assets on screen </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RhythmHell.java" line="64" column="13" bodyfile="RhythmHell.java" bodystart="64" bodyend="66"/>
+      </memberdef>
+      <memberdef kind="function" id="classio_1_1github_1_1kevalshah2005_1_1_rhythm_hell_1a19312df38e9e98bd69d7bc6f4f14844d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void io.github.kevalshah2005.RhythmHell.dispose</definition>
+        <argsstring>()</argsstring>
+        <name>dispose</name>
+        <qualifiedname>io.github.kevalshah2005.RhythmHell.dispose</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>What to do when this object is disposed </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RhythmHell.java" line="72" column="13" bodyfile="RhythmHell.java" bodystart="72" bodyend="75"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>Game</label>
+      </node>
+      <node id="1">
+        <label>io.github.kevalshah2005.RhythmHell</label>
+        <link refid="classio_1_1github_1_1kevalshah2005_1_1_rhythm_hell"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Game</label>
+      </node>
+      <node id="4">
+        <label>BitmapFont</label>
+      </node>
+      <node id="3">
+        <label>SpriteBatch</label>
+      </node>
+      <node id="5">
+        <label>Skin</label>
+      </node>
+      <node id="1">
+        <label>io.github.kevalshah2005.RhythmHell</label>
+        <link refid="classio_1_1github_1_1kevalshah2005_1_1_rhythm_hell"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="usage">
+          <edgelabel>batch</edgelabel>
+        </childnode>
+        <childnode refid="4" relation="usage">
+          <edgelabel>font</edgelabel>
+        </childnode>
+        <childnode refid="5" relation="usage">
+          <edgelabel>skin</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="RhythmHell.java" line="16" column="7" bodyfile="RhythmHell.java" bodystart="16" bodyend="76"/>
+    <listofallmembers>
+      <member refid="classio_1_1github_1_1kevalshah2005_1_1_rhythm_hell_1a4501d877d80f61b4f86c341b923ee2ff" prot="public" virt="non-virtual"><scope>io::github::kevalshah2005::RhythmHell</scope><name>batch</name></member>
+      <member refid="classio_1_1github_1_1kevalshah2005_1_1_rhythm_hell_1a88b1aa19549a0cd12fc3ed1f5895e13b" prot="public" virt="non-virtual"><scope>io::github::kevalshah2005::RhythmHell</scope><name>create</name></member>
+      <member refid="classio_1_1github_1_1kevalshah2005_1_1_rhythm_hell_1a19312df38e9e98bd69d7bc6f4f14844d" prot="public" virt="non-virtual"><scope>io::github::kevalshah2005::RhythmHell</scope><name>dispose</name></member>
+      <member refid="classio_1_1github_1_1kevalshah2005_1_1_rhythm_hell_1a999b97cb5f4f468dc347ad022b56ba34" prot="private" virt="non-virtual"><scope>io::github::kevalshah2005::RhythmHell</scope><name>font</name></member>
+      <member refid="classio_1_1github_1_1kevalshah2005_1_1_rhythm_hell_1a84f55a854dc52d491aa77832957f19d6" prot="public" virt="non-virtual"><scope>io::github::kevalshah2005::RhythmHell</scope><name>render</name></member>
+      <member refid="classio_1_1github_1_1kevalshah2005_1_1_rhythm_hell_1a7af9e26f0927db8dc12f5a0b0299c152" prot="public" virt="non-virtual"><scope>io::github::kevalshah2005::RhythmHell</scope><name>skin</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

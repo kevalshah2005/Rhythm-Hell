@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"io.github.kevalshah2005"},{"l":"io.github.kevalshah2005.entities"},{"l":"io.github.kevalshah2005.levels"},{"l":"io.github.kevalshah2005.patterns"},{"l":"io.github.kevalshah2005.screens"},{"l":"io.github.kevalshah2005.utils"}];updateSearchResults();
