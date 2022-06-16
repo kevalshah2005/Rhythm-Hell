@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/kevalshah2005/Rhythm-Hell">
-    <img src="assets/gameLogo" alt="Logo" width="320" height="320">
+    <img src="assets/gameLogo.png" alt="Logo" width="320" height="320">
   </a>
 
 <h3 align="center">Rhythm Hell</h3>
